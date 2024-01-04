@@ -14,8 +14,10 @@ class AnArchitectApparently:
         return " - ".join((self.name, self.language, self.tools))
 
     def __str__(self):
-        bio = """Hi, I'm Marcin. I'm a curious individual. I've been consuming code for a few years..
-        Initially applied it to automate the hard and boring or cut design & construction related corners, currently (like everyone) peeking into ML and web.
+        bio = """
+        Hi, I'm Marcin. I'm a curious individual. I've been consuming code for a few years..
+        I initially applied it to automate the hard and boring or cut design & construction related corners.
+        Currently (like everyone) I'm peeking into ML and web. 
         I find the beauty of engineering soothing."""
         return bio
 
