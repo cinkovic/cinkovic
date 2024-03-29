@@ -5,10 +5,10 @@ class AnArchitectApparently:
 
     def __init__(self):
         self.name = "Marcin Cichocki"
-        self.languages = "Python, JS"
+        self.languages = "Python"
         self.since = 2019
         self.prerequisites = "Harvard CS50, Hyperskill, Udemy"
-        self.tools = "Pandas, Django, Revit"
+        self.tools = "Pandas, Django"
 
     def __repr__(self):
         return " - ".join((self.name, self.language, self.tools))
