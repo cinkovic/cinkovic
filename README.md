@@ -25,8 +25,7 @@ class AnArchitectApparently:
     def contact(self):
         """For enquiries, plase contact me via:"""
         return {
-            "email": "bS5hLmNpY2hvY2tpQGdtYWlsLmNvbQooZm9yIGxlZ2l0aW1hdGUgcHVycG9zZXMgb25seSk=",
-            "phone": "KCs0NCkgMCA3ODI1NzU4MTY4Cihmb3IgbGVnaXRpbWF0ZSBwdXJwb3NlcyBvbmx5KQ=="
+            "email": "bS5hLmNpY2hvY2tpQGdtYWlsLmNvbQooZm9yIGxlZ2l0aW1hdGUgcHVycG9zZXMgb25seSk="
         }
 ```
 
