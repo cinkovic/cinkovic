@@ -8,7 +8,7 @@ class AnArchitectApparently:
         self.languages = "Python, JavaScript, SQL"
         self.since = 2019
         self.prerequisites = "Harvard CS50, Hyperskill, Udemy"
-        self.tools = "Pandas, Django, PostgreSQL"
+        self.tools = "Pandas, Django"
 
     def __repr__(self):
         return " - ".join((self.name, self.language, self.tools))
