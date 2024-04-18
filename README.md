@@ -6,19 +6,20 @@ class AnArchitectApparently:
     def __init__(self):
         self.name = "Marcin Cihocki"
         self.since = 2019
-        self.languages = "Python, JavaScript, SQL"
-        self.tools = "Pandas, Django, Vue, React, PostgreSQL, Git, Docker"
+        self.languages = "Python, JavaScript"
+        self.tools = "Pandas, Django, Vue, React, Git, Docker"
         self.prerequisites = "Harvard CS50, Hyperskill, Udemy"
 
     def __repr__(self):
-        return "/n".join((self.name, self.languages, self.tools))
+        return "\n".join((self.name, self.languages, self.tools))
 
     def __str__(self):
         bio = """
         Hi, I'm Marcin. I'm a curious individual. I've been consuming code for a few years.
         I initially applied it to automate the hard and boring or cut design & construction related corners.
         Currently (like everyone) peeking into ML and web. 
-        I find the beauty of engineering soothing.."""
+        I find the beauty of engineering soothing..
+        """
         return bio
 
     @property
