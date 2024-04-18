@@ -11,7 +11,7 @@ class AnArchitectApparently:
         self.tools = "Pandas, Django"
 
     def __repr__(self):
-        return ". ".join((self.name, self.language, self.tools))
+        return "/n".join((self.name, self.language, self.tools))
 
     def __str__(self):
         bio = """
