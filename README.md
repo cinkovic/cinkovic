@@ -5,8 +5,8 @@ class AnArchitectApparently:
 
     def __init__(self):
         self.name = "Marcin Cichocki"
-        self.languages = "Python, JavaScript, SQL"
         self.since = 2019
+        self.languages = "Python, JavaScript, SQL"
         self.prerequisites = "Harvard CS50, Hyperskill, Udemy"
         self.tools = "Pandas, Django, Vue, React, PostgreSQL, Git, Docker"
 
