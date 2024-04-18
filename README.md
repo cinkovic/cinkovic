@@ -1,7 +1,7 @@
 ## Info
 ```python
 class AnArchitectApparently:
-    """I find beauty in ever new places."""
+    """Discovering beauty in ever new places."""
 
     def __init__(self):
         self.name = "Marcin Cichocki"
