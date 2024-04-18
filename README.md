@@ -11,7 +11,7 @@ class AnArchitectApparently:
         self.prerequisites = "Harvard CS50, Hyperskill, Udemy"
 
     def __repr__(self):
-        return "/n".join((self.name, self.language, self.tools))
+        return "/n".join((self.name, self.languages, self.tools))
 
     def __str__(self):
         bio = """
