@@ -7,7 +7,7 @@ class AnArchitectApparently:
         self.name = "Marcin Cihocki"
         self.since = 2019
         self.languages = "Python, JavaScript"
-        self.tools = "Pandas, Django, Vue, React, Git, Docker"
+        self.tools = "Pandas, Django, Vue, Git, Docker"
         self.prerequisites = "Harvard CS50, Hyperskill, Udemy"
 
     def __repr__(self):
