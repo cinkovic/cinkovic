@@ -4,7 +4,7 @@ class AnArchitectApparently:
     """Discovering beauty in ever new places."""
 
     def __init__(self):
-        self.name = "Marcin Cihocki"
+        self.name = "Marcin Cichocki"
         self.since = 2019
         self.languages = "Python, JavaScript"
         self.tools = "Pandas, Django, Git, Docker"
