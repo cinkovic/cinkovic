@@ -1,6 +1,6 @@
 ## Info
 ```python
-class AnArchitectApparently:
+class DevSlashArchitect:
     """Discovering beauty in ever new places."""
 
     def __init__(self):
