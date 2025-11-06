@@ -7,7 +7,7 @@ class DevSlashArchitect:
         self.name = "Marcin Cichocki"
         self.since = 2019
         self.languages = "Python, JavaScript, Java, PHP"
-        self.tools = "Pandas, Django, Laravel, React, NextJS, Git, Docker, Nginx"
+        self.tools = "Pandas, Django, Laravel, NextJS, Git, Docker, Nginx"
         self.prerequisites = "Harvard CS50, Hyperskill, Udemy"
 
     def __repr__(self):
