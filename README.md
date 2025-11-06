@@ -15,7 +15,7 @@ class DevSlashArchitect:
 
     def __str__(self):
         bio = """
-        Hi, I'm Marcin. I'm a curious individual. I've been consuming code for a few years.
+        Hi, I'm Marcin. I'm a curious individual. I've been consuming code for a few years..
         I initially applied it to automate the hard and boring or cut design & construction related corners.
         Into backend web design, ML, scripting. I like type hints. Git merge, so far.  
         I find the beauty of engineering soothing..
